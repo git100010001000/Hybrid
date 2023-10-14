@@ -30,7 +30,7 @@ public class DriverTest {
 		fileInput=new FileInputStream(new File("C:\\Users\\Admin\\Desktop\\Photon\\Photon workspace\\BigMaven\\src\\main\\java\\com\\properties\\property.properties"));
 		prop= new Properties();
 		prop.load(fileInput);
-		//-Tst
+		//-Tst//
 		
 	} catch (FileNotFoundException e) {
 		e.printStackTrace();
