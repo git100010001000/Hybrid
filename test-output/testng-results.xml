@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Reporter log method...]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+      <class name="maven.NewTest">
+        <test-method status="PASS" signature="a()[pri:0, instance:maven.NewTest@3ecd23d9]" name="a" duration-ms="0" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Reporter log method...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="d()[pri:0, instance:maven.NewTest@3ecd23d9]" name="d" duration-ms="0" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="b()[pri:0, instance:maven.NewTest@3ecd23d9]" name="b" duration-ms="0" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="c()[pri:0, instance:maven.NewTest@3ecd23d9]" name="c" duration-ms="0" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="e()[pri:0, instance:maven.NewTest@3ecd23d9]" name="e" duration-ms="4" started-at="2023-10-16T19:31:44 IST" finished-at="2023-10-16T19:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+      </class> <!-- maven.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

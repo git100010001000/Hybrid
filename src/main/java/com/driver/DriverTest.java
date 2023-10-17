@@ -31,7 +31,7 @@ public class DriverTest {
 		prop= new Properties();
 		prop.load(fileInput);
 		//-Tst//
-		
+		//new line
 	} catch (FileNotFoundException e) {
 		e.printStackTrace();
 	}
